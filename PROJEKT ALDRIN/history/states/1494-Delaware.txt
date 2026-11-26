@@ -1,0 +1,29 @@
+
+state={
+	id=1494
+	name="STATE_1494"
+
+	history={
+		owner = USA
+		add_core_of = USA
+		victory_points = {
+			14390 4
+		}
+            buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			dockyard = 1
+			14390 = {
+				naval_base = 1
+			}
+		}
+	}	
+
+	provinces={
+		9786 14389 14390 
+	}
+	manpower=1134300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+        state_category = large_city
+}
